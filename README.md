@@ -56,9 +56,8 @@ The following table summarizes the **accuracy**, **precision**, **recall**, and 
 | Convolutional Neural Networks (CNN)             | 80.7             | 84.0              | 81.0           | 82.0             |
 | CNN-BiLSTM                                       | 82.2             | 82.3              | 82.1           | 82.1             |
 | LSTM (Long Short-Term Memory)                   | 81.0             | 83.0              | 81.0           | 82.1             |
-| FinBERT (Bidirectional Encoder Representations from Transformers) | 85.5          | 91.62             | 89.87          | 79.05            |
-| RoBERTa (Robustly Optimized BERT Approach)       | **86.25**        | **92.29**         | **90.13**      | **80.21**        |
-
+| DistillBERT  | 97.7          | 97.7             | 97.7          | 97.7            |
+| RoBERTa (Robustly Optimized BERT Approach)       | **99.0**        | **99.0**         | **99.0**      | **99.0**       
 
 
 ## Conclusion:
