@@ -40,7 +40,7 @@ Natural language processing (NLP) techniques enable disease risk prediction by a
 
  - Language Models:
       - RoBERTa (Robustly Optimized BERT apporach)
-      - BERT (Bidirectional Encoder Representations from Transformers)
+      - distillBERT (Bidirectional Encoder Representations from Transformers)
 
 ## Comparative Analysis:
 The comparative analysis of different models highlights their effectiveness in classifying individuals into the correct disease risk category (high-risk or low-risk).
